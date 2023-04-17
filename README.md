@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm Bengahtani Oussama</h1>
 <h3 align="center">I am a Frontend developer from Algeria</h3>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 <p align="left">I have practical experience in designing, developing and implementing applications and solutions using a range of technologies such as: ReactJs, Next.Js, NodeJS and ongoDB.</p>
+
 
 <h4>Skills</h4>
 <p>Jvascript, ReactJs, NextJs, ExpressJs, HTML 5, CSS3, JQuery, Styled-Components, Material-UI, TailwindCSS and Bootstrap.MongoDB, Firebase and SQL.</p>
